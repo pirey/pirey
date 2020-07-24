@@ -1,4 +1,4 @@
-[![Pirey's github stats](https://github-readme-stats.vercel.app/api?username=pirey)](https://github.com/anuraghazra/github-readme-stats)
+[![Pirey's github stats](https://github-readme-stats.vercel.app/api?username=pirey)](https://github-readme-stats.vercel.app/api?username=pirey)
 
 <!--
 **pirey/pirey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
